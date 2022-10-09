@@ -19,6 +19,6 @@
   <a href = "mailto:ivanreisdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivan-reis-b93b32248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/Ivan-ReisDev)
+![Snake animation](https://github.com/Ivan-ReisDev/Ivan-ReisDev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
